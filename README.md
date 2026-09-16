@@ -85,13 +85,7 @@ For every plaintext pair with the prescribed input difference, the generator enc
 
 The bit representations of `m` independently generated pair instances are concatenated into one sample. Positive and negative samples therefore differ by whether the correct or an incorrect last-round key is used for peeling.
 
-## Usage
 
-Run the commands from this directory:
-
-```bash
-cd simple
-```
 
 ### 1. Train distinguishers
 
